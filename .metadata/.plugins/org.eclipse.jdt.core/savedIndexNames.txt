@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\Azam\Desktop\Java Afru assign\.metadata\.plugins\org.eclipse.jdt.core
+3847020184.index
+2066238267.index
+2454449678.index
+188923828.index
